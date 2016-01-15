@@ -1,7 +1,8 @@
 name: Brain Traduções
 favicon: null
-layout_spectrum: 0.17302772658877075
-typography_spectrum: 0.7114207525737584
+layout_spectrum: 0.20374
+typography_spectrum: 0.82524
+title: Brain Traduções
 cta:
   domain: null
   bucket: null
@@ -16,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
-  brandStrength: 0.6527226066682488
-  lightness: 0.1674722214229405
-  saturation: 0.2737860158085823
+    - '#f9f9fb'
+    - '#020104'
+    - '#cec3c0'
+    - '#9a7562'
+    - '#324e7c'
+  brandStrength: 0.5625
+  lightness: 0.6875
+  saturation: 0.5625
   rhythmicContrast: 0.7042616892140359
 purpose: []
